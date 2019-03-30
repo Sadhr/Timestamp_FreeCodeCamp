@@ -15,4 +15,4 @@ Example usage:
 Example output:
 
     { "unix": 1450137600, "natural": "December 15, 2015" }
-![property finder](unitedremote-challange.gif)
+![](unitedremote-challange.gif)
